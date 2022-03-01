@@ -1,6 +1,6 @@
 VERSION = 7
 SITES_HOSTS = ["https://raw.githubusercontent.com/opengs/uashieldtargets/master/sites.json"]
-PROXIES_HOSTS = ["https://gist.githubusercontent.com/TihonV/be1c9d38b2be89420359a50c91330f31/raw/a4897966dd9b2e1a8a0cfd659d45ba3c9182e584/proxy.json"]
+PROXIES_HOSTS = ["https://gist.githubusercontent.com/TihonV/be1c9d38b2be89420359a50c91330f31/raw/db57a7ebc615035c1e55cb095492efbe88362a55/proxy.json"]
 MAX_REQUESTS = 5000
 DEFAULT_THREADS = 500
 TARGET_UPDATE_RATE = 600
